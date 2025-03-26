@@ -1,0 +1,7 @@
+{
+  "platformVersion": "2",
+  "name": "Stopwatch Widget",
+  "version": "1.0",
+  "description": "A simple stopwatch widget",
+  "index": "index.html"
+}
